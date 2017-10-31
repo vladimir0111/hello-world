@@ -6,6 +6,6 @@ begin
 
 x := 10;  
 
-writeln(x);
+writeln('x = ',x);
 
 end.
